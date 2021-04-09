@@ -1,6 +1,6 @@
 # Liuu_Jiaxu_dynamic_team_bio
 
-# Assignment Requirements:
+## Assignment Requirements:
 
 Design a bio page! Consider this a page in the context of a larger studio site - look at how “real”
 design / dev houses do this, and come up with your own style.
@@ -20,7 +20,7 @@ Include an image tag that switches its source based on the team member you’re 
 (head shot or something similar).
 
 
-# Artworks:
+## Artworks:
 The designer used two circular containers to put pictures and two buttons below the pictures. The interviewer needs to click on the buttons to see the information of each person. Taking the pattern of buttons adds interactivity to the web page.
 
 ## JS:
